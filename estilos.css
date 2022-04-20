@@ -1,0 +1,64 @@
+
+nav    {
+    background-color: #D6AFDC;
+    
+}
+
+
+ul{
+    color: white;
+    height: 100px;
+    flex-direction: row;
+    display: flex;
+    align-content: center;
+    margin: 0px;
+    padding: 0 0 0 5px;
+    
+
+}
+
+.inicio  {
+    
+    display: inline;
+    font-weight: bold;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    
+
+}
+
+.inicio:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+.quienes    {
+   
+    display: inline;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+
+.quienes:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+.contacto   {
+
+    font-weight: bold;
+    display: inline;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.contacto:hover{
+    background-color: blue;
+    cursor: pointer;
+}
